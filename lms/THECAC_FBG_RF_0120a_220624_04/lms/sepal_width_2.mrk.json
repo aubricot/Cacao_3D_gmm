@@ -1,0 +1,155 @@
+{
+    "@schema": "https://raw.githubusercontent.com/slicer/slicer/master/Modules/Loadable/Markups/Resources/Schema/markups-schema-v1.0.3.json#",
+    "markups": [
+        {
+            "type": "Curve",
+            "coordinateSystem": "LPS",
+            "coordinateUnits": "mm",
+            "locked": false,
+            "fixedNumberOfControlPoints": false,
+            "labelFormat": "%N-%d",
+            "lastUsedControlPointNumber": 10,
+            "controlPoints": [
+                {
+                    "id": "1",
+                    "label": "sepal_width-1",
+                    "description": "",
+                    "associatedNodeID": "",
+                    "position": [12.69855785369873, 14.478937149047852, 5.055654048919678],
+                    "orientation": [-1.0, -0.0, -0.0, -0.0, -1.0, -0.0, 0.0, 0.0, 1.0],
+                    "selected": true,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "2",
+                    "label": "sepal_width-2",
+                    "description": "",
+                    "associatedNodeID": "",
+                    "position": [12.455107688903809, 14.518746376037598, 5.014991760253906],
+                    "orientation": [-1.0, -0.0, -0.0, -0.0, -1.0, -0.0, 0.0, 0.0, 1.0],
+                    "selected": true,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "3",
+                    "label": "",
+                    "description": "",
+                    "associatedNodeID": "",
+                    "position": [12.212501525878907, 14.571762084960938, 4.988780498504639],
+                    "orientation": [-1.0, -0.0, -0.0, -0.0, -1.0, -0.0, 0.0, 0.0, 1.0],
+                    "selected": true,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "4",
+                    "label": "sepal_width-3",
+                    "description": "",
+                    "associatedNodeID": "",
+                    "position": [11.996159553527832, 14.681456565856934, 5.035020351409912],
+                    "orientation": [-1.0, -0.0, -0.0, -0.0, -1.0, -0.0, 0.0, 0.0, 1.0],
+                    "selected": true,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "5",
+                    "label": "sepal_width-4",
+                    "description": "",
+                    "associatedNodeID": "",
+                    "position": [11.810114860534668, 14.820520401000977, 5.127203464508057],
+                    "orientation": [-1.0, -0.0, -0.0, -0.0, -1.0, -0.0, 0.0, 0.0, 1.0],
+                    "selected": true,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "6",
+                    "label": "sepal_width-5",
+                    "description": "",
+                    "associatedNodeID": "",
+                    "position": [11.576603889465332, 14.886038780212403, 5.130511283874512],
+                    "orientation": [-1.0, -0.0, -0.0, -0.0, -1.0, -0.0, 0.0, 0.0, 1.0],
+                    "selected": true,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "7",
+                    "label": "",
+                    "description": "",
+                    "associatedNodeID": "",
+                    "position": [11.330833435058594, 14.905983924865723, 5.095240592956543],
+                    "orientation": [-1.0, -0.0, -0.0, -0.0, -1.0, -0.0, 0.0, 0.0, 1.0],
+                    "selected": true,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "8",
+                    "label": "sepal_width-6",
+                    "description": "",
+                    "associatedNodeID": "",
+                    "position": [11.087480545043946, 14.961710929870606, 5.104762554168701],
+                    "orientation": [-1.0, -0.0, -0.0, -0.0, -1.0, -0.0, 0.0, 0.0, 1.0],
+                    "selected": true,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "9",
+                    "label": "sepal_width-7sepal_width-10",
+                    "description": "",
+                    "associatedNodeID": "",
+                    "position": [10.863019943237305, 15.058810234069825, 5.148735046386719],
+                    "orientation": [-1.0, -0.0, -0.0, -0.0, -1.0, -0.0, 0.0, 0.0, 1.0],
+                    "selected": true,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "10",
+                    "label": "sepal_width-8sepal_width-9",
+                    "description": "",
+                    "associatedNodeID": "",
+                    "position": [10.681010246276856, 15.203631401062012, 5.239434719085693],
+                    "orientation": [-1.0, -0.0, -0.0, -0.0, -1.0, -0.0, 0.0, 0.0, 1.0],
+                    "selected": true,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                }
+            ],
+            "measurements": [
+                {
+                    "name": "length",
+                    "enabled": true,
+                    "value": 2.244841615189153,
+                    "units": "mm",
+                    "printFormat": "%-#4.4gmm"
+                },
+                {
+                    "name": "curvature mean",
+                    "enabled": false,
+                    "printFormat": "%5.3f %s"
+                },
+                {
+                    "name": "curvature max",
+                    "enabled": false,
+                    "printFormat": "%5.3f %s"
+                }
+            ]
+        }
+    ]
+}

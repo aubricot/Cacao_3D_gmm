@@ -1,0 +1,99 @@
+{
+    "@schema": "https://raw.githubusercontent.com/slicer/slicer/master/Modules/Loadable/Markups/Resources/Schema/markups-schema-v1.0.3.json#",
+    "markups": [
+        {
+            "type": "Curve",
+            "coordinateSystem": "LPS",
+            "coordinateUnits": "mm",
+            "locked": false,
+            "fixedNumberOfControlPoints": false,
+            "labelFormat": "%N-%d",
+            "lastUsedControlPointNumber": 5,
+            "controlPoints": [
+                {
+                    "id": "1",
+                    "label": "staminode_height-1",
+                    "description": "",
+                    "associatedNodeID": "",
+                    "position": [7.380575656890869, 6.5736188888549809, 8.797942161560059],
+                    "orientation": [-1.0, -0.0, -0.0, -0.0, -1.0, -0.0, 0.0, 0.0, 1.0],
+                    "selected": true,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "2",
+                    "label": "",
+                    "description": "",
+                    "associatedNodeID": "",
+                    "position": [7.395792007446289, 6.498023986816406, 9.218936920166016],
+                    "orientation": [-1.0, -0.0, -0.0, -0.0, -1.0, -0.0, 0.0, 0.0, 1.0],
+                    "selected": true,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "3",
+                    "label": "staminode_height-2staminode_height-3",
+                    "description": "",
+                    "associatedNodeID": "",
+                    "position": [7.431351184844971, 6.411803245544434, 9.636099815368653],
+                    "orientation": [-1.0, -0.0, -0.0, -0.0, -1.0, -0.0, 0.0, 0.0, 1.0],
+                    "selected": true,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "4",
+                    "label": "staminode_height-4",
+                    "description": "",
+                    "associatedNodeID": "",
+                    "position": [7.5532426834106449, 6.262711048126221, 10.017672538757325],
+                    "orientation": [-1.0, -0.0, -0.0, -0.0, -1.0, -0.0, 0.0, 0.0, 1.0],
+                    "selected": true,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "5",
+                    "label": "staminode_height-5",
+                    "description": "",
+                    "associatedNodeID": "",
+                    "position": [7.69854736328125, 6.157787322998047, 10.406167030334473],
+                    "orientation": [-1.0, -0.0, -0.0, -0.0, -1.0, -0.0, 0.0, 0.0, 1.0],
+                    "selected": true,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                }
+            ],
+            "measurements": [
+                {
+                    "name": "length",
+                    "enabled": true,
+                    "value": 1.7121871957972073,
+                    "units": "mm",
+                    "printFormat": "%-#4.4gmm"
+                },
+                {
+                    "name": "curvature mean",
+                    "enabled": true,
+                    "value": 0.3280072039516149,
+                    "units": "mm-1",
+                    "printFormat": "%5.3f %s"
+                },
+                {
+                    "name": "curvature max",
+                    "enabled": true,
+                    "value": 1.1858227848324008,
+                    "units": "mm-1",
+                    "printFormat": "%5.3f %s"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,275 @@
+{
+    "@schema": "https://raw.githubusercontent.com/slicer/slicer/master/Modules/Loadable/Markups/Resources/Schema/markups-schema-v1.0.3.json#",
+    "markups": [
+        {
+            "type": "Curve",
+            "coordinateSystem": "LPS",
+            "coordinateUnits": "mm",
+            "locked": false,
+            "fixedNumberOfControlPoints": false,
+            "labelFormat": "%N-%d",
+            "lastUsedControlPointNumber": 21,
+            "controlPoints": [
+                {
+                    "id": "77",
+                    "label": "lig-1",
+                    "description": "",
+                    "associatedNodeID": "",
+                    "position": [5.0367631912231449, 1.6631953716278077, 9.522054672241211],
+                    "orientation": [-1.0, -0.0, -0.0, -0.0, -1.0, -0.0, 0.0, 0.0, 1.0],
+                    "selected": true,
+                    "locked": false,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "2",
+                    "label": "ligule-2",
+                    "description": "",
+                    "associatedNodeID": "",
+                    "position": [4.943638801574707, 1.3352479934692383, 9.595608711242676],
+                    "orientation": [-1.0, -0.0, -0.0, -0.0, -1.0, -0.0, 0.0, 0.0, 1.0],
+                    "selected": true,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "3",
+                    "label": "ligule-3",
+                    "description": "",
+                    "associatedNodeID": "",
+                    "position": [4.878818988800049, 1.0490120649337769, 9.442285537719727],
+                    "orientation": [-1.0, -0.0, -0.0, -0.0, -1.0, -0.0, 0.0, 0.0, 1.0],
+                    "selected": true,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "4",
+                    "label": "ligule-4",
+                    "description": "",
+                    "associatedNodeID": "",
+                    "position": [4.84971809387207, 0.8286493420600891, 9.172578811645508],
+                    "orientation": [-1.0, -0.0, -0.0, -0.0, -1.0, -0.0, 0.0, 0.0, 1.0],
+                    "selected": true,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "5",
+                    "label": "ligule-5",
+                    "description": "",
+                    "associatedNodeID": "",
+                    "position": [4.822365760803223, 0.6510629057884216, 8.87464427947998],
+                    "orientation": [-1.0, -0.0, -0.0, -0.0, -1.0, -0.0, 0.0, 0.0, 1.0],
+                    "selected": true,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "6",
+                    "label": "ligule-6",
+                    "description": "",
+                    "associatedNodeID": "",
+                    "position": [4.806548595428467, 0.6159893870353699, 8.530744552612305],
+                    "orientation": [-1.0, -0.0, -0.0, -0.0, -1.0, -0.0, 0.0, 0.0, 1.0],
+                    "selected": true,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "7",
+                    "label": "",
+                    "description": "",
+                    "associatedNodeID": "",
+                    "position": [4.814086437225342, 0.7382956743240356, 8.205435752868653],
+                    "orientation": [-1.0, -0.0, -0.0, -0.0, -1.0, -0.0, 0.0, 0.0, 1.0],
+                    "selected": true,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "8",
+                    "label": "ligule-7",
+                    "description": "",
+                    "associatedNodeID": "",
+                    "position": [4.835208415985107, 0.921221911907196, 7.908472537994385],
+                    "orientation": [-1.0, -0.0, -0.0, -0.0, -1.0, -0.0, 0.0, 0.0, 1.0],
+                    "selected": true,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "9",
+                    "label": "ligule-8",
+                    "description": "",
+                    "associatedNodeID": "",
+                    "position": [4.869221210479736, 1.161487102508545, 7.658783912658691],
+                    "orientation": [-1.0, -0.0, -0.0, -0.0, -1.0, -0.0, 0.0, 0.0, 1.0],
+                    "selected": true,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "10",
+                    "label": "ligule-9",
+                    "description": "",
+                    "associatedNodeID": "",
+                    "position": [4.911828994750977, 1.4514654874801636, 7.469297409057617],
+                    "orientation": [-1.0, -0.0, -0.0, -0.0, -1.0, -0.0, 0.0, 0.0, 1.0],
+                    "selected": true,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "11",
+                    "label": "ligule-10ligule-11",
+                    "description": "",
+                    "associatedNodeID": "",
+                    "position": [4.861792087554932, 1.5509333610534669, 7.152631759643555],
+                    "orientation": [-1.0, -0.0, -0.0, -0.0, -1.0, -0.0, 0.0, 0.0, 1.0],
+                    "selected": true,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "12",
+                    "label": "ligule-12",
+                    "description": "",
+                    "associatedNodeID": "",
+                    "position": [4.762117385864258, 1.4897491931915284, 6.8238677978515629],
+                    "orientation": [-1.0, -0.0, -0.0, -0.0, -1.0, -0.0, 0.0, 0.0, 1.0],
+                    "selected": true,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "13",
+                    "label": "ligule-13",
+                    "description": "",
+                    "associatedNodeID": "",
+                    "position": [4.654531002044678, 1.4175503253936768, 6.5003228187561039],
+                    "orientation": [-1.0, -0.0, -0.0, -0.0, -1.0, -0.0, 0.0, 0.0, 1.0],
+                    "selected": true,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "14",
+                    "label": "ligule-14",
+                    "description": "",
+                    "associatedNodeID": "",
+                    "position": [4.545561790466309, 1.4873971939086915, 6.176843166351318],
+                    "orientation": [-1.0, -0.0, -0.0, -0.0, -1.0, -0.0, 0.0, 0.0, 1.0],
+                    "selected": true,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "15",
+                    "label": "ligule-15",
+                    "description": "",
+                    "associatedNodeID": "",
+                    "position": [4.471413612365723, 1.5312747955322266, 5.838311195373535],
+                    "orientation": [-1.0, -0.0, -0.0, -0.0, -1.0, -0.0, 0.0, 0.0, 1.0],
+                    "selected": true,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "16",
+                    "label": "ligule-16",
+                    "description": "",
+                    "associatedNodeID": "",
+                    "position": [4.38735294342041, 1.6023130416870118, 5.506984710693359],
+                    "orientation": [-1.0, -0.0, -0.0, -0.0, -1.0, -0.0, 0.0, 0.0, 1.0],
+                    "selected": true,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "17",
+                    "label": "ligule-17",
+                    "description": "",
+                    "associatedNodeID": "",
+                    "position": [4.349072456359863, 1.7141708135604859, 5.178102016448975],
+                    "orientation": [-1.0, -0.0, -0.0, -0.0, -1.0, -0.0, 0.0, 0.0, 1.0],
+                    "selected": true,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "18",
+                    "label": "ligule-18",
+                    "description": "",
+                    "associatedNodeID": "",
+                    "position": [4.303280353546143, 1.806343674659729, 4.844016075134277],
+                    "orientation": [-1.0, -0.0, -0.0, -0.0, -1.0, -0.0, 0.0, 0.0, 1.0],
+                    "selected": true,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "19",
+                    "label": "ligule-19ligule-20",
+                    "description": "",
+                    "associatedNodeID": "",
+                    "position": [4.277737617492676, 1.8894755840301514, 4.505420684814453],
+                    "orientation": [-1.0, -0.0, -0.0, -0.0, -1.0, -0.0, 0.0, 0.0, 1.0],
+                    "selected": true,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "20",
+                    "label": "ligule-21",
+                    "description": "",
+                    "associatedNodeID": "",
+                    "position": [4.2470316886901859, 1.9574693441390992, 4.163834571838379],
+                    "orientation": [-1.0, -0.0, -0.0, -0.0, -1.0, -0.0, 0.0, 0.0, 1.0],
+                    "selected": true,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                }
+            ],
+            "measurements": [
+                {
+                    "name": "length",
+                    "enabled": true,
+                    "value": 6.632257725622133,
+                    "units": "mm",
+                    "printFormat": "%-#4.4gmm"
+                },
+                {
+                    "name": "curvature mean",
+                    "enabled": false,
+                    "printFormat": "%5.3f %s"
+                },
+                {
+                    "name": "curvature max",
+                    "enabled": false,
+                    "printFormat": "%5.3f %s"
+                }
+            ]
+        }
+    ]
+}

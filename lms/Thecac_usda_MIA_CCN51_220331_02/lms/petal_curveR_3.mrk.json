@@ -1,0 +1,279 @@
+{
+    "@schema": "https://raw.githubusercontent.com/slicer/slicer/master/Modules/Loadable/Markups/Resources/Schema/markups-schema-v1.0.3.json#",
+    "markups": [
+        {
+            "type": "Curve",
+            "coordinateSystem": "LPS",
+            "coordinateUnits": "mm",
+            "locked": false,
+            "fixedNumberOfControlPoints": false,
+            "labelFormat": "%N-%d",
+            "lastUsedControlPointNumber": 20,
+            "controlPoints": [
+                {
+                    "id": "31",
+                    "label": "pet_cur_R-1",
+                    "description": "",
+                    "associatedNodeID": "",
+                    "position": [5.629662990570068, 5.937889099121094, 8.5697660446167],
+                    "orientation": [-1.0, -0.0, -0.0, -0.0, -1.0, -0.0, 0.0, 0.0, 1.0],
+                    "selected": true,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "32",
+                    "label": "",
+                    "description": "",
+                    "associatedNodeID": "",
+                    "position": [5.635191440582275, 5.905084609985352, 8.388501167297364],
+                    "orientation": [-1.0, -0.0, -0.0, -0.0, -1.0, -0.0, 0.0, 0.0, 1.0],
+                    "selected": true,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "33",
+                    "label": "pet_cur_R-2",
+                    "description": "",
+                    "associatedNodeID": "",
+                    "position": [5.630241870880127, 5.878884792327881, 8.206212997436524],
+                    "orientation": [-1.0, -0.0, -0.0, -0.0, -1.0, -0.0, 0.0, 0.0, 1.0],
+                    "selected": true,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "34",
+                    "label": "",
+                    "description": "",
+                    "associatedNodeID": "",
+                    "position": [5.588472366333008, 5.875437259674072, 8.02790641784668],
+                    "orientation": [-1.0, -0.0, -0.0, -0.0, -1.0, -0.0, 0.0, 0.0, 1.0],
+                    "selected": true,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "35",
+                    "label": "pet_cur_R-3",
+                    "description": "",
+                    "associatedNodeID": "",
+                    "position": [5.506903648376465, 5.886114120483398, 7.863106727600098],
+                    "orientation": [-1.0, -0.0, -0.0, -0.0, -1.0, -0.0, 0.0, 0.0, 1.0],
+                    "selected": true,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "36",
+                    "label": "pet_cur_R-4",
+                    "description": "",
+                    "associatedNodeID": "",
+                    "position": [5.428858280181885, 5.875302314758301, 7.696602821350098],
+                    "orientation": [-1.0, -0.0, -0.0, -0.0, -1.0, -0.0, 0.0, 0.0, 1.0],
+                    "selected": true,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "37",
+                    "label": "",
+                    "description": "",
+                    "associatedNodeID": "",
+                    "position": [5.343997955322266, 5.841048717498779, 7.536886215209961],
+                    "orientation": [-1.0, -0.0, -0.0, -0.0, -1.0, -0.0, 0.0, 0.0, 1.0],
+                    "selected": true,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "38",
+                    "label": "pet_cur_R-5",
+                    "description": "",
+                    "associatedNodeID": "",
+                    "position": [5.250478267669678, 5.774966716766357, 7.392982482910156],
+                    "orientation": [-1.0, -0.0, -0.0, -0.0, -1.0, -0.0, 0.0, 0.0, 1.0],
+                    "selected": true,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "39",
+                    "label": "",
+                    "description": "",
+                    "associatedNodeID": "",
+                    "position": [5.15658712387085, 5.670518398284912, 7.274670124053955],
+                    "orientation": [-1.0, -0.0, -0.0, -0.0, -1.0, -0.0, 0.0, 0.0, 1.0],
+                    "selected": true,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "40",
+                    "label": "pet_cur_R-6",
+                    "description": "",
+                    "associatedNodeID": "",
+                    "position": [5.076420307159424, 5.523904800415039, 7.199807643890381],
+                    "orientation": [-1.0, -0.0, -0.0, -0.0, -1.0, -0.0, 0.0, 0.0, 1.0],
+                    "selected": true,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "41",
+                    "label": "",
+                    "description": "",
+                    "associatedNodeID": "",
+                    "position": [5.015613079071045, 5.351886749267578, 7.178718090057373],
+                    "orientation": [-1.0, -0.0, -0.0, -0.0, -1.0, -0.0, 0.0, 0.0, 1.0],
+                    "selected": true,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "42",
+                    "label": "pet_cur_R-7",
+                    "description": "",
+                    "associatedNodeID": "",
+                    "position": [4.955864906311035, 5.179958343505859, 7.204370975494385],
+                    "orientation": [-1.0, -0.0, -0.0, -0.0, -1.0, -0.0, 0.0, 0.0, 1.0],
+                    "selected": true,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "43",
+                    "label": "pet_cur_R-8",
+                    "description": "",
+                    "associatedNodeID": "",
+                    "position": [4.885804653167725, 5.022436141967773, 7.268621921539307],
+                    "orientation": [-1.0, -0.0, -0.0, -0.0, -1.0, -0.0, 0.0, 0.0, 1.0],
+                    "selected": true,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "44",
+                    "label": "",
+                    "description": "",
+                    "associatedNodeID": "",
+                    "position": [4.804701805114746, 4.882735252380371, 7.356951713562012],
+                    "orientation": [-1.0, -0.0, -0.0, -0.0, -1.0, -0.0, 0.0, 0.0, 1.0],
+                    "selected": true,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "45",
+                    "label": "pet_cur_R-9pet_cur_R-14pet_cur_R-15pet_cur_R-16pet_cur_R-17pet_cur_R-18pet_cur_R-19pet_cur_R-20",
+                    "description": "",
+                    "associatedNodeID": "",
+                    "position": [4.722012996673584, 4.762416839599609, 7.469014644622803],
+                    "orientation": [-1.0, -0.0, -0.0, -0.0, -1.0, -0.0, 0.0, 0.0, 1.0],
+                    "selected": true,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "46",
+                    "label": "",
+                    "description": "",
+                    "associatedNodeID": "",
+                    "position": [4.649095058441162, 4.660695552825928, 7.604115962982178],
+                    "orientation": [-1.0, -0.0, -0.0, -0.0, -1.0, -0.0, 0.0, 0.0, 1.0],
+                    "selected": true,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "47",
+                    "label": "pet_cur_R-10",
+                    "description": "",
+                    "associatedNodeID": "",
+                    "position": [4.58765983581543, 4.565064430236816, 7.749155521392822],
+                    "orientation": [-1.0, -0.0, -0.0, -0.0, -1.0, -0.0, 0.0, 0.0, 1.0],
+                    "selected": true,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "48",
+                    "label": "pet_cur_R-11",
+                    "description": "",
+                    "associatedNodeID": "",
+                    "position": [4.536353588104248, 4.46268892288208, 7.893548965454102],
+                    "orientation": [-1.0, -0.0, -0.0, -0.0, -1.0, -0.0, 0.0, 0.0, 1.0],
+                    "selected": true,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "49",
+                    "label": "pet_cur_R-12",
+                    "description": "",
+                    "associatedNodeID": "",
+                    "position": [4.472884654998779, 4.361693859100342, 8.033787727355957],
+                    "orientation": [-1.0, -0.0, -0.0, -0.0, -1.0, -0.0, 0.0, 0.0, 1.0],
+                    "selected": true,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "20",
+                    "label": "pet_cur_R-13",
+                    "description": "",
+                    "associatedNodeID": "",
+                    "position": [4.436171054840088, 4.240246772766113, 8.163860321044922],
+                    "orientation": [-1.0, -0.0, -0.0, -0.0, -1.0, -0.0, 0.0, 0.0, 1.0],
+                    "selected": true,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                }
+            ],
+            "measurements": [
+                {
+                    "name": "length",
+                    "enabled": true,
+                    "value": 3.4987974617089696,
+                    "units": "mm",
+                    "printFormat": "%-#4.4gmm"
+                },
+                {
+                    "name": "curvature mean",
+                    "enabled": true,
+                    "value": 1.0440675148313106,
+                    "units": "mm-1",
+                    "printFormat": "%5.3f %s"
+                },
+                {
+                    "name": "curvature max",
+                    "enabled": true,
+                    "value": 2.026477245362587,
+                    "units": "mm-1",
+                    "printFormat": "%5.3f %s"
+                }
+            ]
+        }
+    ]
+}

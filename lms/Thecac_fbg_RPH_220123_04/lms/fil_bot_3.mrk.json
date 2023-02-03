@@ -1,0 +1,219 @@
+{
+    "@schema": "https://raw.githubusercontent.com/slicer/slicer/master/Modules/Loadable/Markups/Resources/Schema/markups-schema-v1.0.3.json#",
+    "markups": [
+        {
+            "type": "Curve",
+            "coordinateSystem": "LPS",
+            "coordinateUnits": "mm",
+            "locked": false,
+            "fixedNumberOfControlPoints": false,
+            "labelFormat": "%N-%d",
+            "lastUsedControlPointNumber": 15,
+            "controlPoints": [
+                {
+                    "id": "51",
+                    "label": "fil_bot-1",
+                    "description": "",
+                    "associatedNodeID": "",
+                    "position": [6.284672737121582, 5.984835147857666, 5.450245380401611],
+                    "orientation": [-1.0, -0.0, -0.0, -0.0, -1.0, -0.0, 0.0, 0.0, 1.0],
+                    "selected": true,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "52",
+                    "label": "",
+                    "description": "",
+                    "associatedNodeID": "",
+                    "position": [6.063074588775635, 5.958553314208984, 5.644098281860352],
+                    "orientation": [-1.0, -0.0, -0.0, -0.0, -1.0, -0.0, 0.0, 0.0, 1.0],
+                    "selected": true,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "53",
+                    "label": "fil_bot-2",
+                    "description": "",
+                    "associatedNodeID": "",
+                    "position": [5.837973594665527, 5.94329309463501, 5.835031986236572],
+                    "orientation": [-1.0, -0.0, -0.0, -0.0, -1.0, -0.0, 0.0, 0.0, 1.0],
+                    "selected": true,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "54",
+                    "label": "",
+                    "description": "",
+                    "associatedNodeID": "",
+                    "position": [5.608133316040039, 5.94265604019165, 6.0208964347839359],
+                    "orientation": [-1.0, -0.0, -0.0, -0.0, -1.0, -0.0, 0.0, 0.0, 1.0],
+                    "selected": true,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "55",
+                    "label": "fil_bot-3",
+                    "description": "",
+                    "associatedNodeID": "",
+                    "position": [5.380323886871338, 5.91837739944458, 6.206190586090088],
+                    "orientation": [-1.0, -0.0, -0.0, -0.0, -1.0, -0.0, 0.0, 0.0, 1.0],
+                    "selected": true,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "56",
+                    "label": "fil_bot-4fil_bot-5",
+                    "description": "",
+                    "associatedNodeID": "",
+                    "position": [5.201467037200928, 5.799453258514404, 6.407628536224365],
+                    "orientation": [-1.0, -0.0, -0.0, -0.0, -1.0, -0.0, 0.0, 0.0, 1.0],
+                    "selected": true,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "57",
+                    "label": "",
+                    "description": "",
+                    "associatedNodeID": "",
+                    "position": [5.072108268737793, 5.603590965270996, 6.58370304107666],
+                    "orientation": [-1.0, -0.0, -0.0, -0.0, -1.0, -0.0, 0.0, 0.0, 1.0],
+                    "selected": true,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "58",
+                    "label": "fil_bot-6",
+                    "description": "",
+                    "associatedNodeID": "",
+                    "position": [5.0076375007629398, 5.341868877410889, 6.701024055480957],
+                    "orientation": [-1.0, -0.0, -0.0, -0.0, -1.0, -0.0, 0.0, 0.0, 1.0],
+                    "selected": true,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "59",
+                    "label": "fil_bot-7",
+                    "description": "",
+                    "associatedNodeID": "",
+                    "position": [4.9949116706848148, 5.056692123413086, 6.777257442474365],
+                    "orientation": [-1.0, -0.0, -0.0, -0.0, -1.0, -0.0, 0.0, 0.0, 1.0],
+                    "selected": true,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "60",
+                    "label": "fil_bot-8",
+                    "description": "",
+                    "associatedNodeID": "",
+                    "position": [4.986220359802246, 4.766221523284912, 6.830677032470703],
+                    "orientation": [-1.0, -0.0, -0.0, -0.0, -1.0, -0.0, 0.0, 0.0, 1.0],
+                    "selected": true,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "61",
+                    "label": "fil_bot-9",
+                    "description": "",
+                    "associatedNodeID": "",
+                    "position": [4.983592510223389, 4.471381187438965, 6.849140167236328],
+                    "orientation": [-1.0, -0.0, -0.0, -0.0, -1.0, -0.0, 0.0, 0.0, 1.0],
+                    "selected": true,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "62",
+                    "label": "",
+                    "description": "",
+                    "associatedNodeID": "",
+                    "position": [5.011379241943359, 4.1776814460754398, 6.848424434661865],
+                    "orientation": [-1.0, -0.0, -0.0, -0.0, -1.0, -0.0, 0.0, 0.0, 1.0],
+                    "selected": true,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "67",
+                    "label": "fil_bot-10fil_bot-13fil_bot-14fil_bot-15",
+                    "description": "",
+                    "associatedNodeID": "",
+                    "position": [5.182429790496826, 3.9941892623901369, 6.746485233306885],
+                    "orientation": [-1.0, -0.0, -0.0, -0.0, -1.0, -0.0, 0.0, 0.0, 1.0],
+                    "selected": true,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "68",
+                    "label": "",
+                    "description": "",
+                    "associatedNodeID": "",
+                    "position": [5.416330814361572, 4.062009334564209, 6.581794738769531],
+                    "orientation": [-1.0, -0.0, -0.0, -0.0, -1.0, -0.0, 0.0, 0.0, 1.0],
+                    "selected": true,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "15",
+                    "label": "fil_bot-11fil_bot-12",
+                    "description": "",
+                    "associatedNodeID": "",
+                    "position": [5.6338677406311039, 4.184325695037842, 6.423684597015381],
+                    "orientation": [-1.0, -0.0, -0.0, -0.0, -1.0, -0.0, 0.0, 0.0, 1.0],
+                    "selected": true,
+                    "locked": true,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                }
+            ],
+            "measurements": [
+                {
+                    "name": "length",
+                    "enabled": true,
+                    "value": 4.127824409244172,
+                    "units": "mm",
+                    "printFormat": "%-#4.4gmm"
+                },
+                {
+                    "name": "curvature mean",
+                    "enabled": true,
+                    "value": 0.9270912967948355,
+                    "units": "mm-1",
+                    "printFormat": "%5.3f %s"
+                },
+                {
+                    "name": "curvature max",
+                    "enabled": true,
+                    "value": 4.9257864601805478,
+                    "units": "mm-1",
+                    "printFormat": "%5.3f %s"
+                }
+            ]
+        }
+    ]
+}
