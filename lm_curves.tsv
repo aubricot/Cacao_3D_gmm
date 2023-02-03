@@ -1,0 +1,10 @@
+lm_name	lm_id	num_repeats	before	slide	after
+fil_bot	1	15	1	14	15
+fil_top	2	10	16	24	25
+ligule_length	3	20	26	44	45
+ligule_width	4	15	46	59	60
+petal_curveL	5	20	61	79	80
+petal_curveR	6	20	81	99	100
+sepal_length	7	20	101	119	120
+sepal_width	8	10	121	129	130
+staminode_height	9	5	131	134	135

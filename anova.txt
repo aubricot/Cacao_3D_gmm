@@ -1,0 +1,19 @@
+
+Analysis of Variance, using Residual Randomization
+Permutation procedure: Randomization of null model residuals 
+Number of permutations: 1000 
+Estimation method: Ordinary Least Squares 
+Sums of Squares and Cross-products: Type I 
+Effect sizes (Z) based on F distributions
+
+            Df     SS      MS     Rsq      F      Z Pr(>F)   
+Csize        1 0.4007 0.40066 0.10965 5.6859 3.2860  0.001 **
+self_compat  1 0.3145 0.31451 0.08607 4.4633 3.0559  0.001 **
+tree         4 0.5044 0.12610 0.13804 1.7895 1.7227  0.045 * 
+col_month    2 0.2501 0.12503 0.06843 1.7743 1.4590  0.071 . 
+Residuals   31 2.1844 0.07047 0.59781                        
+Total       39 3.6541                                        
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Call: procD.lm(f1 = coords ~ Csize + self_compat + tree + col_month,      data = gdf)
