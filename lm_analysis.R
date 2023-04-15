@@ -1,5 +1,5 @@
 # Cacao Landmark Analysis for Wolcott et al. 2023, APPS
-# Last updated on Feb 3 by K Wolcott
+# Last updated on Apr 15 by K Wolcott
 
 # If on Mac, first install XQuartz 2.7.11
 ## https://www.xquartz.org/releases/XQuartz-2.7.11.html
@@ -16,7 +16,7 @@
 pacman::p_load(devtools, geomorph, rgl, purrr, dplyr, glue, abind, stringr,
                SlicerMorphR, ggplot2, ggforce, concaveman, Rcpp) 
 
-# Set working directory 
+# Set working directory  (define your data_wd below)
 data_wd = "/Users/katherinewolcott/Documents/r/cacao"
 lms_wd = paste(data_wd, "/lms", sep="")
 setwd(lms_wd)
@@ -169,9 +169,36 @@ gdf = geomorph.data.frame(Y.gpa, tree=spec_info$tree_id,
                           self_compat=spec_info$selfCompatible)
 attributes(gdf)
 ## Run anova
-model = procD.lm(coords ~ Csize + self_compat + tree + col_month, data = gdf)
-aov = anova(model)
+### Null fit model (no group effects)
+fit = procD.lm(coords ~ log(Csize), data = gdf)
+aov = anova(fit)
 summary(aov)
+
+### Common fit model (group effects of tree_id, col_month)
+fit.common = procD.lm(coords ~ log(Csize) + tree + col_month, data = gdf, SS.type = "III")
+aov.common = anova(fit.common)
+summary(aov.common)
+
+### Common fit model sc (group effects of tree_id, self_compat, col_month)
+fit.common.sc = procD.lm(coords ~ log(Csize) + self_compat + tree + col_month, data = gdf, SS.type = "III")
+aov.common.sc = anova(fit.common.sc)
+summary(aov.common.sc)
+
+### Common fit model sc (group effects of tree_id, self_compat, col_month)
+fit.common.sc = procD.lm(coords ~ log(Csize) + self_compat + tree + col_month, data = gdf, SS.type = "III")
+aov.common.sc = anova(fit.common.sc)
+summary(aov.common.sc)
+
+# Compare fit models
+anova(fit, fit.common, fit.common.sc, SS.type = "III")
+
+# Pairwise test of unique vs unique sc
+PW = pairwise(fit = fit.common.sc, fit.null = fit, groups = gdf$self_compat, covariate=gdf$Csize)
+summary(PW, confidence = 0.95)
+
+PW = pairwise(fit = fit.common.sc, fit.null = fit, groups = interaction(gdf$self_compat, gdf$tree))
+summary(PW, confidence = 0.95)
+
 ## Export results
 capture.output(summary(aov),file="anova.txt")
 
