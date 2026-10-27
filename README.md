@@ -6,3 +6,5 @@ Files and code used for 3D gmm analysis of cacao flowers (*Theobroma cacao* L.) 
 <a href="url"><img src="https://github.com/aubricot/Cacao_3D_gmm/blob/main/github_banner_cacao.jpg" align="middle" width="900" ></a></p>   
 
 Models were generated in [3D Slicer](https://www.slicer.org) and available on [Morphosource](https://www.morphosource.org/projects/000461839?locale=en). Analysis was carried out in [R 4.0.5](https://www.R-project.org/) using [SlicerMorphR 0.0.0.9000](https://github.com/SlicerMorph/SlicerMorphR) and [geomorph 4.0.5](https://github.com/geomorphR/geomorph).
+
+Segmentation and landmarking workflows are documented ([segmentation](https://github.com/aubricot/Cacao_3D_gmm/blob/main/Appendix_S5_Slicer_segmentation_workflow.pdf); [landmarks](https://github.com/aubricot/Cacao_3D_gmm/blob/main/Slicer_landmarks_workflow_thecac.pdf)).
